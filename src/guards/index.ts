@@ -1,1 +1,1 @@
-export { CsrfGraphQLGuard, CsrfGuard } from "./csrf.guard";
+export { CsrfGuard } from "./csrf.guard";
